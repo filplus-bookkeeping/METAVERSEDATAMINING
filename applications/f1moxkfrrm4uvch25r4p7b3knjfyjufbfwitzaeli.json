@@ -1,0 +1,72 @@
+{
+  "Version": "1.3",
+  "ID": "f1moxkfrrm4uvch25r4p7b3knjfyjufbfwitzaeli",
+  "Issue Number": "1",
+  "Client": {
+    "Name": "Sloan Digital Sky Survey",
+    "Region": "United States",
+    "Industry": "Environment",
+    "Website": "https://www.sdss.org",
+    "Social Media": "https://x.com/sdssurveys",
+    "Social Media Type": "Twitter",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Stone Moon focuses on providing storage solutions and advancing the Filecoin ecosystem. We've onboarded various storage providers and infrastructure services to support fair data storage and retrieval. By collaborating with ecosystem builders, we've pushed Filecoin's growth. Through partnerships with data providers, app developers, and blockchain experts, we've expanded our services to meet market demands. We've strengthened ties with storage providers and developed relationships with FVM smart contract app developers to drive innovative Filecoin tech uses. We're constantly scouting for new useful data to enhance user options for data storage.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "--The latest and final infrared spectra of the SDSS component Apache Point Observatory Galaxy Evolution Experiment 2 (APOGEE-2), as well as abundance measurements and radial velocities\r\n--The latest and final data cubes from integral field unit (IFU) spectroscopic observations of nearby galaxies from the SDSS component Mapping Nearby Galaxies at APO (MaNGA), as well as the final data products and maps from the MaNGA Data Analysis Pipeline (DAP)\r\n--The latest and final optical stellar spectra of the MaNGA Stellar Library program (MaStar)\r\n--The latest and final data release of optical spectra from the SDSS component extended Baryon Oscillation Spectroscopic Survey (eBOSS), including the spectra of the SPectroscopic IDentfication of ERosita Sources (SPIDERS) survey and Time Domain Spectroscopic Survey (TDSS).\r\n--Value Added Catalogs (VACs) for all three SDSS components (eBOSS, APOGEE-2 and MaNGA), including targeting catalogs\r\n--The most current reprocessed imaging and spectra from the SDSS legacy survey",
+    "Where was the data currently stored in this dataset sourced from": "Other",
+    "How do you plan to prepare the dataset": "Self-developed packing tool",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.sdss4.org/dr17/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "US HKblockchain 1 replica\r\nJap Fly 1 replica\r\nHK Datestone 1 replica\r\nHK Xing 1 replica\r\nKorea Hanku 1 replica",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "2PiB",
+    "Single Size Dataset": "245TiB",
+    "Replicas": 5,
+    "Weekly Allocation": "500TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-06-13 13:35:07.900812703 UTC",
+    "Validated By": "METAVERSEDATAMINING",
+    "Active": true,
+    "Updated At": "2024-06-13 14:26:36.442314247 UTC",
+    "Active Request ID": "38aa961c-d674-4e22-9842-e16675e92973",
+    "On Chain Address": "f1moxkfrrm4uvch25r4p7b3knjfyjufbfwitzaeli",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "38aa961c-d674-4e22-9842-e16675e92973",
+      "Request Type": "First",
+      "Created At": "2024-06-13 13:35:07.900820943 UTC",
+      "Updated At": "2024-06-13 13:35:07.900822336 UTC",
+      "Active": false,
+      "Allocation Amount": "100TiB",
+      "Signers": [
+        {
+          "Github Username": "METAVERSEDATAMINING",
+          "Signing Address": "f1uhdgxklhmone6l3xjikxrs6zciitf6o5aipapfa",
+          "Created At": "2024-06-13 13:37:50.463000000 UTC",
+          "Message CID": "bafy2bzacedadw64qxkgki37yctryq2h2tobkks5abg7xzyptwwek7rvjszmrg"
+        },
+        {
+          "Github Username": "METAVERSEDATAMINING",
+          "Signing Address": "f1kqjoordnccf5xf46uw25tc5xxtoxmzjk5erqcrq",
+          "Created At": "2024-06-13 14:26:30.945000000 UTC",
+          "Message CID": "bafy2bzacebikawmcnb3iart3txahzrlq7g63slsr7zypt2ryufqrhefnj7coi"
+        }
+      ]
+    }
+  ]
+}
