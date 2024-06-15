@@ -35,11 +35,11 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "StartSignDatacap",
+    "State": "Granted",
     "Validated At": "2024-06-13 13:35:07.900812703 UTC",
     "Validated By": "METAVERSEDATAMINING",
     "Active": true,
-    "Updated At": "2024-06-15 09:39:28.439399203 UTC",
+    "Updated At": "2024-06-15 09:42:01.102125172 UTC",
     "Active Request ID": "6f65ffae-1aa6-4174-b956-94da4525c990",
     "On Chain Address": "f1moxkfrrm4uvch25r4p7b3knjfyjufbfwitzaeli",
     "Multisig Address": "false",
@@ -73,7 +73,7 @@
       "Request Type": "Refill",
       "Created At": "2024-06-15 09:36:51.856393235 UTC",
       "Updated At": "2024-06-15 09:36:51.856394651 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "300TiB",
       "Signers": [
         {
@@ -81,6 +81,12 @@
           "Signing Address": "f1uhdgxklhmone6l3xjikxrs6zciitf6o5aipapfa",
           "Created At": "2024-06-15 09:39:26.315000000 UTC",
           "Message CID": "bafy2bzacealoz3uwmsni7zlyzkhjdsmrnobja5ek3jzyzmlsremkvscmwkuba"
+        },
+        {
+          "Github Username": "METAVERSEDATAMINING",
+          "Signing Address": "f1kqjoordnccf5xf46uw25tc5xxtoxmzjk5erqcrq",
+          "Created At": "2024-06-15 09:41:59.170000000 UTC",
+          "Message CID": "bafy2bzaceagpitrranfa4glducuseicypvw4zqvc7ziy3kyoo3hbt6ymhz7ua"
         }
       ]
     }
