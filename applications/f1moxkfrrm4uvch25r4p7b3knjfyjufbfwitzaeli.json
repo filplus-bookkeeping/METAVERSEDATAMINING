@@ -35,11 +35,11 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "StartSignDatacap",
     "Validated At": "2024-06-13 13:35:07.900812703 UTC",
     "Validated By": "METAVERSEDATAMINING",
     "Active": true,
-    "Updated At": "2024-06-17 02:30:18.888604727 UTC",
+    "Updated At": "2024-06-17 02:31:42.498593017 UTC",
     "Active Request ID": "d561e6dc-2d27-426a-9128-d99d081d8c60",
     "On Chain Address": "f1moxkfrrm4uvch25r4p7b3knjfyjufbfwitzaeli",
     "Multisig Address": "false",
@@ -97,7 +97,14 @@
       "Updated At": "2024-06-17 02:30:18.888643038 UTC",
       "Active": true,
       "Allocation Amount": "600TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "METAVERSEDATAMINING",
+          "Signing Address": "f1uhdgxklhmone6l3xjikxrs6zciitf6o5aipapfa",
+          "Created At": "2024-06-17 02:31:39.221000000 UTC",
+          "Message CID": "bafy2bzacebglduenr2ohtj2itaktkigy7mpfq7kl7uoxmtbqbe2c2w55z6wu6"
+        }
+      ]
     }
   ]
 }
