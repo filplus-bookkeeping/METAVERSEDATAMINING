@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1em7yhgdfjccx52rjlonotj4tqerb4xlyi24msdi",
+  "Issue Number": "6",
+  "Client": {
+    "Name": "muoketv",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "http://www.muoketv.com/",
+    "Social Media": "http://www.muoketv.com/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "**Henan Muke Film & Culture Media Co., Ltd.** pursues high quality as its corporate goal, and is committed to crafting promotional videos, documentaries, feature programs, presentation films, advertisements, web films, MG animations, 3D animations, VR experiences, and other marketing-oriented video products with a craftsman spirit of dedication, precision, and excellence.\n\nWe keep pace with the latest developments and technological advancements in the global digital media industry, ensuring that our creative concepts and production techniques remain aligned with international standards, providing clients with top-tier film products and technical services.\n\nGuided by the inherent laws of industrial operations, and adapting to the trend of enterprise platform-based development in the digital age, we utilize innovative business ideas and effective market strategies to significantly reduce production costs. This allows us to offer high-quality, affordable marketing video solutions, earning us the reputation as the “King of Value” among our valued clients.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Promotional videos, documentaries, feature films, presentation videos, advertisements, web films, MG animations, 3D animations, VR experiences, and other data.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.muoketv.com/ysphy",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Australia (continent), Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02826762\nf02827135\nf02827010\nf02825281 \nf03610683\nf02827953\nf02827843\nf02827109\nf02826602\nf02825675",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1200TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-07-08 05:10:45.979356489 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1em7yhgdfjccx52rjlonotj4tqerb4xlyi24msdi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
