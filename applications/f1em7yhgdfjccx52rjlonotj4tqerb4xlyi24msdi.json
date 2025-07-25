@@ -35,7 +35,7 @@
     "Weekly Allocation": "1200TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-07-08 07:24:16.677164818 UTC",
     "Validated By": "METAVERSEDATAMINING",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "952ab324-46bd-4613-af7b-83c740272020",
     "On Chain Address": "f1em7yhgdfjccx52rjlonotj4tqerb4xlyi24msdi",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
